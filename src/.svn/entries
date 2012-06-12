@@ -1,80 +1,0 @@
-10
-
-dir
-6
-https://lurkdownloader.googlecode.com/svn/trunk/src
-https://lurkdownloader.googlecode.com/svn
-
-
-
-2009-11-16T11:15:08.425376Z
-6
-aprimadi
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-fb308f8e-cde9-11de-8626-0d8cb8b546e2
-
-search
-dir
-
-third_party
-dir
-
-miner
-dir
-
-irc_client
-dir
-
-gui.py
-file
-
-
-
-
-2009-11-16T11:06:00.525000Z
-068244b0cfaf92be4cfaba352674859f
-2009-11-16T11:15:08.425376Z
-6
-aprimadi
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5338
-
-model
-dir
-
-utils
-dir
-

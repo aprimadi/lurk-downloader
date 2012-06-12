@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/6/trunk/src/search
+END
+indexer.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/src/search/indexer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/src/search/__init__.py
+END
+tokenizer.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/6/trunk/src/search/tokenizer.py
+END
+search_engine.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/src/search/search_engine.py
+END

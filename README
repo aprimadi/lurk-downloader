@@ -1,0 +1,16 @@
+Intro:
+Downloading manga from http://gotlurk.net takes a lot of work. One must go to
+the website first, then find the manga to download and its corresponding
+bot server and item number. Then, they must open IRC client and type 
+  /msg <bot-name> xdcc send #<item-number>
+Not to mention all that annoying pop-ups which crash your computers.
+
+The goal of this project is to create a friendly user interface which shows a
+list of manga to download and allows user to download gotlurk manga in one
+click.
+
+Dependencies:
+- Windows
+  + Python 2.6.2
+- Linux
+  + Tkinter
